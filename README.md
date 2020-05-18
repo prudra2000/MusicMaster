@@ -3,7 +3,7 @@
   - JavaScript, HTML, CSS, REACT
   
 ## What is Music Master?
-- Music Master is a web application that fetches data from Spotify's servers to display an overview of an artist that the user searches for. 
+- Music Master is a web application that fetches data from Spotify's API to display an overview of an artist that the user searches for. 
 
 ## Features
 - Search Functionality 
